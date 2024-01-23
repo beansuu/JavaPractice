@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ca23a79-168d-4fc7-a6c5-a2c6d664586f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/rp/sec02/Lec01FluxIntro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/rp/sec02/Lec02MultipleSubscribers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rp/sec02/Lec03FluxFromArrayOrList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +66,7 @@
       <recent name="C:\Users\kasutaja\Desktop\JavaPractice\reactor\src\main\java\com\rp\sec01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lec02MultipleSubscribers">
+  <component name="RunManager" selected="Application.Lec03FluxFromArrayOrList">
     <configuration name="Lec01FluxIntro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.rp.sec02.Lec01FluxIntro" />
       <module name="reactor" />
@@ -94,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lec07MonoFromFuture" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rp.sec01.Lec07MonoFromFuture" />
+    <configuration name="Lec03FluxFromArrayOrList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rp.sec02.Lec03FluxFromArrayOrList" />
       <module name="reactor" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.rp.sec01.*" />
+          <option name="PATTERN" value="com.rp.sec02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lec03FluxFromArrayOrList" />
         <item itemvalue="Application.Lec02MultipleSubscribers" />
         <item itemvalue="Application.Lec01FluxIntro" />
         <item itemvalue="Application.Lec09AssignmentDemo" />
         <item itemvalue="Application.Lec08MonoFromRunnable" />
-        <item itemvalue="Application.Lec07MonoFromFuture" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +151,7 @@
       <option name="presentableId" value="Default" />
       <updated>1705416937710</updated>
       <workItem from="1705416938708" duration="2598000" />
-      <workItem from="1706004479256" duration="14759000" />
+      <workItem from="1706004479256" duration="14853000" />
     </task>
     <servers />
   </component>
