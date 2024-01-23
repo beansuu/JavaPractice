@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ca23a79-168d-4fc7-a6c5-a2c6d664586f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/rp/sec02/Lec07FluxVsList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/rp/sec02/helper/NameGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rp/sec02/Lec08FluxInterval.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,20 +66,7 @@
       <recent name="C:\Users\kasutaja\Desktop\JavaPractice\reactor\src\main\java\com\rp\sec01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lec07FluxVsList">
-    <configuration name="Lec04FluxFromStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rp.sec02.Lec04FluxFromStream" />
-      <module name="reactor" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.rp.sec02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lec08FluxInterval">
     <configuration name="Lec05FluxRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.rp.sec02.Lec05FluxRange" />
       <module name="reactor" />
@@ -133,13 +119,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lec08FluxInterval" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rp.sec02.Lec08FluxInterval" />
+      <module name="reactor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rp.sec02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lec08FluxInterval" />
         <item itemvalue="Application.Lec07FluxVsList" />
         <item itemvalue="Application.Lec06Subscription" />
         <item itemvalue="Application.Lec06Subscription (1)" />
         <item itemvalue="Application.Lec05FluxRange" />
-        <item itemvalue="Application.Lec04FluxFromStream" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +151,7 @@
       <option name="presentableId" value="Default" />
       <updated>1705416937710</updated>
       <workItem from="1705416938708" duration="2598000" />
-      <workItem from="1706004479256" duration="20456000" />
+      <workItem from="1706004479256" duration="21295000" />
     </task>
     <servers />
   </component>
