@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ca23a79-168d-4fc7-a6c5-a2c6d664586f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/rp/sec04/Lec03DoCallBacks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rp/sec04/Lec04LimitRate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +67,7 @@
       <recent name="C:\Users\kasutaja\Desktop\JavaPractice\reactor\src\main\java\com\rp\sec01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lec03DoCallBacks">
+  <component name="RunManager" selected="Application.Lec04LimitRate">
     <configuration name="Lec01Handle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.rp.sec04.Lec01Handle" />
       <module name="reactor" />
@@ -107,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lec08FluxPush" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rp.sec03.Lec08FluxPush" />
+    <configuration name="Lec04LimitRate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rp.sec04.Lec04LimitRate" />
       <module name="reactor" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.rp.sec03.*" />
+          <option name="PATTERN" value="com.rp.sec04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lec04LimitRate" />
         <item itemvalue="Application.Lec03DoCallBacks" />
         <item itemvalue="Application.Lec02HandleAssignment" />
         <item itemvalue="Application.Lec01Handle" />
         <item itemvalue="Application.Lec09FileReaderServiceAssignment" />
-        <item itemvalue="Application.Lec08FluxPush" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +153,7 @@
       <updated>1705416937710</updated>
       <workItem from="1705416938708" duration="2598000" />
       <workItem from="1706004479256" duration="23237000" />
-      <workItem from="1706099967191" duration="10311000" />
+      <workItem from="1706099967191" duration="11397000" />
     </task>
     <servers />
   </component>
