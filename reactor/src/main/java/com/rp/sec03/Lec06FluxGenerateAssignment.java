@@ -7,6 +7,8 @@ public class Lec06FluxGenerateAssignment {
 
     public static void main(String[] args) {
 
+
+
         Flux.generate(synchronousSink -> {
             String country = Util.faker().country().name();
             System.out.println("emitting " + country);
