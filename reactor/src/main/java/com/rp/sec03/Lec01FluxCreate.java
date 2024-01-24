@@ -8,7 +8,7 @@ public class Lec01FluxCreate {
 
     public static void main(String[] args) {
 
-        Flux.create(fluxSink -> {
+        Flux.generate(fluxSink -> {
             String country;
             do {
                 country = Util.faker().country().name();

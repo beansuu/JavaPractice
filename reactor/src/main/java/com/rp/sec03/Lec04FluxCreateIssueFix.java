@@ -7,6 +7,7 @@ public class Lec04FluxCreateIssueFix {
 
     public static void main(String[] args) {
 
+        // only one instance of fluxsink
         Flux.create(fluxSink -> {
                     String country;
                     do {
