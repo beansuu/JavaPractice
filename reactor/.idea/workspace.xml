@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ca23a79-168d-4fc7-a6c5-a2c6d664586f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/rp/sec02/Lec10StockPriceAssignment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/rp/sec02/assignment/StockPricePublisher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rp/courseutil/DefaultSubscriber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rp/sec03/Lec01FluxCreate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/rp/courseutil/Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rp/courseutil/Util.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,13 +68,13 @@
       <recent name="C:\Users\kasutaja\Desktop\JavaPractice\reactor\src\main\java\com\rp\sec01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lec10StockPriceAssignment (1)">
-    <configuration name="Lec07FluxVsList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rp.sec02.Lec07FluxVsList" />
+  <component name="RunManager" selected="Application.Lec01FluxCreate">
+    <configuration name="Lec01FluxCreate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rp.sec03.Lec01FluxCreate" />
       <module name="reactor" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.rp.sec02.*" />
+          <option name="PATTERN" value="com.rp.sec03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lec01FluxCreate" />
         <item itemvalue="Application.Lec10StockPriceAssignment (1)" />
         <item itemvalue="Application.Lec10StockPriceAssignment" />
         <item itemvalue="Application.Lec09FluxFromMono" />
         <item itemvalue="Application.Lec08FluxInterval" />
-        <item itemvalue="Application.Lec07FluxVsList" />
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +154,7 @@
       <updated>1705416937710</updated>
       <workItem from="1705416938708" duration="2598000" />
       <workItem from="1706004479256" duration="23237000" />
-      <workItem from="1706099967191" duration="550000" />
+      <workItem from="1706099967191" duration="2630000" />
     </task>
     <servers />
   </component>
