@@ -6,15 +6,15 @@ import reactor.core.publisher.Flux;
 import java.time.Duration;
 import java.util.stream.Stream;
 
-public class Lec04HotPublichAutoConnect {
+public class Lec05HotPublishCache {
 
     public static void main(String[] args) {
 
         // share = publish().refCount(1)
+        // cache = publish().replay() int.max
         Flux<String> movieStream = Flux.fromStream(() -> getMovie())
                 .delayElements(Duration.ofSeconds(1))
-                .publish()
-                .autoConnect(0);
+                .cache(2);
 
         Util.sleepSeconds(3);
 
@@ -46,4 +46,5 @@ public class Lec04HotPublichAutoConnect {
                 "Scene7"
         );
     }
+
 }
