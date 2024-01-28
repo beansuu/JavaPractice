@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ca23a79-168d-4fc7-a6c5-a2c6d664586f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/rp/sec05/assignment/PurchaseOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rp/sec06/Lec01ThreadDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,13 +77,13 @@
       <recent name="C:\Users\kasutaja\Desktop\JavaPractice\reactor\src\main\java\com\rp\sec01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lec05HotPublishCache">
-    <configuration name="Lec01ColdPublisher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rp.sec05.Lec01ColdPublisher" />
+  <component name="RunManager" selected="Application.Lec01ThreadDemo">
+    <configuration name="Lec01ThreadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rp.sec06.Lec01ThreadDemo" />
       <module name="reactor" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.rp.sec05.*" />
+          <option name="PATTERN" value="com.rp.sec06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lec01ThreadDemo" />
         <item itemvalue="Application.Lec05HotPublishCache" />
         <item itemvalue="Application.Lec04HotPublichAutoConnect" />
         <item itemvalue="Application.Lec03HotPublish" />
         <item itemvalue="Application.Lec02HotShare" />
-        <item itemvalue="Application.Lec01ColdPublisher" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +177,7 @@
       <workItem from="1706121523921" duration="1380000" />
       <workItem from="1706205988303" duration="1756000" />
       <workItem from="1706279561208" duration="806000" />
-      <workItem from="1706475640548" duration="1673000" />
+      <workItem from="1706475640548" duration="3147000" />
     </task>
     <servers />
   </component>
