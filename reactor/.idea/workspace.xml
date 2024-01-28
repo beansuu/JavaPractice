@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ca23a79-168d-4fc7-a6c5-a2c6d664586f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/rp/sec05/Lec03HotPublish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rp/sec05/Lec04HotPublichAutoConnect.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/rp/sec05/Lec02HotShare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rp/sec05/Lec02HotShare.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +37,7 @@
   "keyToString": {
     "Application.Lec01ColdPublisher.executor": "Run",
     "Application.Lec02HotShare.executor": "Run",
+    "Application.Lec03HotPublish.executor": "Run",
     "Application.Lec08DefaultIfEmpty.executor": "Run",
     "Application.Lec10Transform.executor": "Debug",
     "Application.Lec11SwitchOnFirst.executor": "Run",
@@ -75,7 +75,7 @@
       <recent name="C:\Users\kasutaja\Desktop\JavaPractice\reactor\src\main\java\com\rp\sec01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lec03HotPublish">
+  <component name="RunManager" selected="Application.Lec04HotPublichAutoConnect">
     <configuration name="Lec01ColdPublisher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.rp.sec05.Lec01ColdPublisher" />
       <module name="reactor" />
@@ -115,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lec08DefaultIfEmpty" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rp.sec04.Lec08DefaultIfEmpty" />
+    <configuration name="Lec04HotPublichAutoConnect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rp.sec05.Lec04HotPublichAutoConnect" />
       <module name="reactor" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.rp.sec04.*" />
+          <option name="PATTERN" value="com.rp.sec05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lec04HotPublichAutoConnect" />
         <item itemvalue="Application.Lec03HotPublish" />
         <item itemvalue="Application.Lec02HotShare" />
         <item itemvalue="Application.Lec01ColdPublisher" />
         <item itemvalue="Application.Lec10Transform" />
-        <item itemvalue="Application.Lec08DefaultIfEmpty" />
       </list>
     </recent_temporary>
   </component>
@@ -175,7 +175,7 @@
       <workItem from="1706121523921" duration="1380000" />
       <workItem from="1706205988303" duration="1756000" />
       <workItem from="1706279561208" duration="806000" />
-      <workItem from="1706475640548" duration="375000" />
+      <workItem from="1706475640548" duration="790000" />
     </task>
     <servers />
   </component>
