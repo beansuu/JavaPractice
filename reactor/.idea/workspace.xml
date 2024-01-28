@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ca23a79-168d-4fc7-a6c5-a2c6d664586f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/rp/sec05/Lec04HotPublichAutoConnect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rp/sec05/Lec04HotPublishAutoConnect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rp/sec05/assignment/PurchaseOrder.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +38,7 @@
     "Application.Lec02HotShare.executor": "Run",
     "Application.Lec03HotPublish.executor": "Run",
     "Application.Lec04HotPublichAutoConnect.executor": "Run",
+    "Application.Lec05HotPublishCache.executor": "Run",
     "Application.Lec08DefaultIfEmpty.executor": "Run",
     "Application.Lec10Transform.executor": "Debug",
     "Application.Lec11SwitchOnFirst.executor": "Run",
@@ -175,7 +176,7 @@
       <workItem from="1706121523921" duration="1380000" />
       <workItem from="1706205988303" duration="1756000" />
       <workItem from="1706279561208" duration="806000" />
-      <workItem from="1706475640548" duration="969000" />
+      <workItem from="1706475640548" duration="1673000" />
     </task>
     <servers />
   </component>
