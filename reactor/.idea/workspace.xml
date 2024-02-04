@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ca23a79-168d-4fc7-a6c5-a2c6d664586f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/rp/sec06/Lec02SubscribeOnDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rp/sec06/Lec03SubscribeOnMultipleItems.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +40,7 @@
     "Application.Lec02HotShare.executor": "Run",
     "Application.Lec02SubscribeOnDemo.executor": "Run",
     "Application.Lec03HotPublish.executor": "Run",
+    "Application.Lec03SubscribeOnMultipleItems.executor": "Run",
     "Application.Lec04HotPublichAutoConnect.executor": "Run",
     "Application.Lec05HotPublishCache.executor": "Run",
     "Application.Lec08DefaultIfEmpty.executor": "Run",
@@ -79,7 +80,7 @@
       <recent name="C:\Users\kasutaja\Desktop\JavaPractice\reactor\src\main\java\com\rp\sec01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lec02SubscribeOnDemo">
+  <component name="RunManager" selected="Application.Lec03SubscribeOnMultipleItems">
     <configuration name="Lec01ThreadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.rp.sec06.Lec01ThreadDemo" />
       <module name="reactor" />
@@ -106,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lec03HotPublish" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rp.sec05.Lec03HotPublish" />
+    <configuration name="Lec03SubscribeOnMultipleItems" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rp.sec06.Lec03SubscribeOnMultipleItems" />
       <module name="reactor" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.rp.sec05.*" />
+          <option name="PATTERN" value="com.rp.sec06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lec03SubscribeOnMultipleItems" />
         <item itemvalue="Application.Lec02SubscribeOnDemo" />
         <item itemvalue="Application.Lec01ThreadDemo" />
         <item itemvalue="Application.Lec05HotPublishCache" />
         <item itemvalue="Application.Lec04HotPublichAutoConnect" />
-        <item itemvalue="Application.Lec03HotPublish" />
       </list>
     </recent_temporary>
   </component>
@@ -180,7 +181,8 @@
       <workItem from="1706205988303" duration="1756000" />
       <workItem from="1706279561208" duration="806000" />
       <workItem from="1706475640548" duration="4030000" />
-      <workItem from="1706641720232" duration="906000" />
+      <workItem from="1706641720232" duration="1101000" />
+      <workItem from="1707080576103" duration="656000" />
     </task>
     <servers />
   </component>
